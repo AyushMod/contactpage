@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,700&display=swap');
+*{
+      padding: 0;
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+}
+.contact-col input, .contact-col textarea{
+      width: 50%;
+      padding: 15px;
+      margin: 17px;
+      outline: none;
+      border: 2px solid #ccc;
+      box-sizing: border-box;
+}
+.hero-btn{
+      text-align: center;
+      width: 150px;
+      height: 50px;
+      background: transparent;
+      border: 3px solid #f50606;
+      padding: 10px;
+      font-size: 15px;
+      cursor: pointer;
+}
